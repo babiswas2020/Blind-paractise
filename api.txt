@@ -1,0 +1,83 @@
+{
+  "links": {
+    "self": "https://captivateprimeqe.adobe.com/primeapi/v2/learningObjects/course:1345851"
+  },
+  "data": {
+    "id": "course:1345851",
+    "type": "learningObject",
+    "attributes": {
+      "authorNames": [
+        "Bapan7011 Biswas"
+      ],
+      "dateCreated": "2020-07-27T05:45:23.000Z",
+      "datePublished": "2020-07-27T05:45:39.000Z",
+      "dateUpdated": "2020-07-27T05:47:57.000Z",
+      "duration": 180,
+      "effectiveModifiedDate": "2020-07-27T05:47:57.000Z",
+      "effectivenessIndex": 0,
+      "enrollmentType": "Self Enroll",
+      "hasOptionalLoResources": false,
+      "isExternal": false,
+      "isPrerequisiteEnforced": false,
+      "isSubLoOrderEnforced": false,
+      "loType": "course",
+      "moduleResetEnabled": true,
+      "state": "Published",
+      "unenrollmentAllowed": false,
+      "catalogLabels": [
+        {
+          "description": "hellboy",
+          "mandatory": true,
+          "name": "hellboy",
+          "values": [
+            "b",
+            "c"
+          ]
+        },
+        {
+          "description": "DFFFFFF",
+          "mandatory": true,
+          "name": "DFFFFFFFF",
+          "values": [
+            "D",
+            "E"
+          ]
+        }
+      ],
+      "localizedMetadata": [
+        {
+          "description": "",
+          "locale": "en-US",
+          "name": "Course 456",
+          "overview": ""
+        }
+      ]
+    },
+    "relationships": {
+      "authors": {
+        "data": [
+          {
+            "id": "7423110",
+            "type": "user"
+          }
+        ]
+      },
+      "instances": {
+        "data": [
+          {
+            "id": "course:1345851_1587474",
+            "type": "learningObjectInstance"
+          }
+        ]
+      },
+      "skills": {
+        "data": [
+          {
+            "id": "course:1345851_28595",
+            "type": "learningObjectSkill"
+          }
+        ]
+      }
+    }
+  }
+}
